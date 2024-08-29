@@ -28,6 +28,27 @@
 - **Criando uma solução** (4:00)
 - **Criando um projeto** (3:00)
 - **Executando o nosso primeiro programa** (10:00)
+  ```
+      λ dotnet new sln -n Curso
+  ```
+  ```
+      λ dotnet new console -n ProjetoAulas -f net8.0
+  ```
+  ```
+      λ dotnet sln Curso.sln add ProjetoAulas
+  ```
+  ```
+      λ dotnet build
+  ```
+  ```
+      λ dotnet clean
+  ```
+  ```
+      λ dotnet run --project ProjetoAulas
+  ```
+  ```
+      λ dotnet run --> dentro da pasta do projeto
+  ```
 - **Tipos de dados do C#** (6:00)
 - **O que é uma variável?** (3:00)
 - **Trabalhando com variáveis** (15:00)
