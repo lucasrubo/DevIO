@@ -1,5 +1,10 @@
 # Resumo do Curso
 
+    Fundamentos do C#
+    O .NET nunca esteve tão em alta quanto atualmente e C# com certeza é a linguagem mais popular e indicada para trabalhar com .NET e sendo a quinta linguagem mais popular do mundo. Neste curso você aprenderá conceitos da linguagem como preparação do ambiente, sintaxe, funcionalidades e muito mais. Esse curso lhe habilitará a estudar tópicos mais avançados como ASP.NET, Forms, MAUI e etc.
+
+# Aulas
+
 ## Introdução
 
 - **Apresentação** (1:00)

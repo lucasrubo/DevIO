@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cursos\\fundamentos_csharp\\ProjetoAulas\\ProjetoAulas.csproj",
+      "projectUniqueName": "D:\\Cursos\\Formação Desenvolvedor .NET\\fundamentos_csharp\\ProjetoAulas\\ProjetoAulas.csproj",
       "projectName": "ProjetoAulas",
-      "projectPath": "D:\\Cursos\\fundamentos_csharp\\ProjetoAulas\\ProjetoAulas.csproj",
+      "projectPath": "D:\\Cursos\\Formação Desenvolvedor .NET\\fundamentos_csharp\\ProjetoAulas\\ProjetoAulas.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "D:\\Cursos\\fundamentos_csharp\\ProjetoAulas\\obj\\",
+      "outputPath": "D:\\Cursos\\Formação Desenvolvedor .NET\\fundamentos_csharp\\ProjetoAulas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
