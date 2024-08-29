@@ -10,7 +10,6 @@ Você aprenderá desde os fundamentos da linguagem C# até o desenvolvimento de 
 
 - **Descrição:** Aprenda desde os fundamentos até a criação de uma aplicação em C#.
 - **Nível:** Básico
-- **Instrutor:** [Nome do Instrutor]
 - **Carga Horária:** 10:00 horas
 - **Categoria:** .NET
 
@@ -18,7 +17,6 @@ Você aprenderá desde os fundamentos da linguagem C# até o desenvolvimento de 
 
 - **Descrição:** Aprenda os fundamentos essenciais para trabalhar com ASP.NET Core.
 - **Nível:** Intermediário
-- **Instrutor:** [Nome do Instrutor]
 - **Carga Horária:** 06:00 horas
 - **Categoria:** Desenvolvimento Web
 
@@ -26,7 +24,6 @@ Você aprenderá desde os fundamentos da linguagem C# até o desenvolvimento de 
 
 - **Descrição:** Aprenda desde os fundamentos até a implementação deste poderoso ORM.
 - **Nível:** Básico
-- **Instrutor:** [Nome do Instrutor]
 - **Carga Horária:** 03:00 horas
 - **Categoria:** Acesso a Dados
 
@@ -34,7 +31,6 @@ Você aprenderá desde os fundamentos da linguagem C# até o desenvolvimento de 
 
 - **Descrição:** Aprenda todos os conceitos do ASP.NET MVC e capacite-se imediatamente.
 - **Nível:** Intermediário
-- **Instrutor:** [Nome do Instrutor]
 - **Carga Horária:** 07:00 horas
 - **Categoria:** Desenvolvimento Web
 
@@ -42,7 +38,6 @@ Você aprenderá desde os fundamentos da linguagem C# até o desenvolvimento de 
 
 - **Descrição:** Aprenda a desenvolver APIs e todas as features do ASP.NET Core.
 - **Nível:** Intermediário
-- **Instrutor:** [Nome do Instrutor]
 - **Carga Horária:** 06:00 horas
 - **Categoria:** Desenvolvimento Web
 
@@ -50,6 +45,5 @@ Você aprenderá desde os fundamentos da linguagem C# até o desenvolvimento de 
 
 - **Descrição:** Aprenda na prática a desenvolver aplicações SPA modernas com Blazor.
 - **Nível:** Intermediário
-- **Instrutor:** [Nome do Instrutor]
 - **Carga Horária:** 11:00 horas
 - **Categoria:** Desenvolvimento Web
