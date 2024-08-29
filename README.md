@@ -7,7 +7,10 @@
 - **Módulos:** 57
 - **Aulas:** 372
 - **Descrição:** Domine os conceitos do .NET e inicie a jornada para se tornar um desenvolvedor competente.
-- **Status:** <span style="color: green;">Iniciada</span>
+- **Status:**
+  - [ ] Não iniciada
+  - [x] Iniciada
+  - [ ] Finalizada
 
 ## Formação ASP.NET Core Expert
 
@@ -16,7 +19,10 @@
 - **Módulos:** 65
 - **Aulas:** 481
 - **Descrição:** Domine o ASP.NET Core e torne-se um especialista em desenvolvimento server-side.
-- **Status:** <span style="color: red;">Não iniciada</span>
+- **Status:**
+  - [x] Não iniciada
+  - [ ] Iniciada
+  - [ ] Finalizada
 
 ## Formação Desenvolvedor Full Stack .NET
 
@@ -25,7 +31,10 @@
 - **Módulos:** 126
 - **Aulas:** 869
 - **Descrição:** Domine o .NET e torne-se um especialista em desenvolvimento Full Stack.
-- **Status:** <span style="color: red;">Não iniciada</span>
+- **Status:**
+  - [x] Não iniciada
+  - [ ] Iniciada
+  - [ ] Finalizada
 
 ## Formação Full Stack Developer
 
@@ -34,7 +43,10 @@
 - **Módulos:** 79
 - **Aulas:** 556
 - **Descrição:** Domine duas das stacks mais poderosas do mercado, ASP.NET Core e Angular.
-- **Status:** <span style="color: red;">Não iniciada</span>
+- **Status:**
+  - [x] Não iniciada
+  - [ ] Iniciada
+  - [ ] Finalizada
 
 ## Formação Arquiteto de Software
 
@@ -43,7 +55,10 @@
 - **Módulos:** 48
 - **Aulas:** 360
 - **Descrição:** Aprenda os conceitos fundamentais para a carreira de arquiteto de software.
-- **Status:** <span style="color: red;">Não iniciada</span>
+- **Status:**
+  - [x] Não iniciada
+  - [ ] Iniciada
+  - [ ] Finalizada
 
 ## Formação Data Access Expert
 
@@ -52,7 +67,10 @@
 - **Módulos:** 45
 - **Aulas:** 285
 - **Descrição:** Aprenda banco de dados, modelagem, ORMs, e torne-se um expert em acesso a dados.
-- **Status:** <span style="color: red;">Não iniciada</span>
+- **Status:**
+  - [x] Não iniciada
+  - [ ] Iniciada
+  - [ ] Finalizada
 
 ## Formação DevOps para Desenvolvedores
 
@@ -61,7 +79,10 @@
 - **Módulos:** 37
 - **Aulas:** 248
 - **Descrição:** Aprenda o que é DevOps e como trabalhar essa cultura como um desenvolvedor de software.
-- **Status:** <span style="color: red;">Não iniciada</span>
+- **Status:**
+  - [x] Não iniciada
+  - [ ] Iniciada
+  - [ ] Finalizada
 
 ## Formação Front-End Angular Expert
 
@@ -70,7 +91,10 @@
 - **Módulos:** 22
 - **Aulas:** 137
 - **Descrição:** Aprenda todos os recursos do Angular e torne-se um expert em desenvolvimento SPA.
-- **Status:** <span style="color: red;">Não iniciada</span>
+- **Status:**
+  - [x] Não iniciada
+  - [ ] Iniciada
+  - [ ] Finalizada
 
 ## Formação ASP.NET MVC 5 Expert
 
@@ -79,4 +103,7 @@
 - **Módulos:** 17
 - **Aulas:** 74
 - **Descrição:** Domine o ASP.NET MVC 5 e torne-se um especialista em desenvolvimento server-side.
-- **Status:** <span style="color: red;">Não iniciada</span>
+- **Status:**
+  - [x] Não iniciada
+  - [ ] Iniciada
+  - [ ] Finalizada
