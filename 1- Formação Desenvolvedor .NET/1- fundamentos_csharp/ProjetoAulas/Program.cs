@@ -6,8 +6,18 @@ namespace Application
     {
         static void Main(string[] args)
         {
-            AulaInterface();
+            TrabalhandoComLinq();
         }
+
+        private static void TrabalhandoComLinq()
+        {
+            var linq = new Modulo14.TrabalhandoComLinq();
+            // linq.AulaWhere();
+            // linq.AulaOrdenacao();
+            // linq.AulaTake();
+            linq.AulaFirst();
+        }
+
         private static void AulaInterface()
         {
             var notificacaoCliente = new Cadastro.NotificacaoCliente();

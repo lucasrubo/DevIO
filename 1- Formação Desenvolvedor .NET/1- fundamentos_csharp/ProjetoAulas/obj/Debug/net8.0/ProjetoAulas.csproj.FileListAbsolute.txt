@@ -13,3 +13,18 @@ D:\Cursos\dev.io\fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.p
 D:\Cursos\dev.io\fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.genruntimeconfig.cache
 D:\Cursos\dev.io\fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\ref\ProjetoAulas.dll
 D:\Cursos\dev.io\fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.sourcelink.json
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.exe
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.deps.json
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.runtimeconfig.json
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.dll
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.pdb
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfoInputs.cache
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfo.cs
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.csproj.CoreCompileInputs.cache
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.sourcelink.json
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.dll
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\refint\ProjetoAulas.dll
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.pdb
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.genruntimeconfig.cache
+D:\Cursos\1- Formação Desenvolvedor .NET\1- fundamentos_csharp\ProjetoAulas\obj\Debug\net8.0\ref\ProjetoAulas.dll
