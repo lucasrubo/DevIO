@@ -9,8 +9,8 @@
 - **Descrição:** Domine os conceitos do .NET e inicie a jornada para se tornar um desenvolvedor competente.
 - **Status:**
   - [ ] Não iniciada
-  - [x] Iniciada
-  - [ ] Finalizada
+  - [ ] Iniciada
+  - [x] Finalizada
 
 ## Formação ASP.NET Core Expert
 
@@ -20,8 +20,8 @@
 - **Aulas:** 481
 - **Descrição:** Domine o ASP.NET Core e torne-se um especialista em desenvolvimento server-side.
 - **Status:**
-  - [x] Não iniciada
-  - [ ] Iniciada
+  - [ ] Não iniciada
+  - [x] Iniciada
   - [ ] Finalizada
 
 ## Formação Desenvolvedor Full Stack .NET
