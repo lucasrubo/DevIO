@@ -1,0 +1,1 @@
+[{"Id":1,"Nome":"rubo","DataNascimento":"2000-07-12","CadastradoEm":"2024-09-14T12:42:21.6873099-03:00","Desconto":100}]
